@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.8">
+  <diagram name="Page-1" id="u8xr3fXajQMKPodwUyHY">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0jcTfireKHz2cJDmcQtS-1" value="Main Building" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-2" value="Drive Way" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="30" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-3" value="Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-4" value="Crop Farming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-6" value="Machine Lot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="360" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-7" value="Animal Pens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="350" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-8" value="Fruit Farm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-9" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-10" value="Street Market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0jcTfireKHz2cJDmcQtS-11" value="Miscelanious alloted slot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="800" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
